@@ -44,6 +44,11 @@
             bindings = <&mo 3>;
             key-positions = <36 41>;
         };
+
+        Test {
+            bindings = <&mo 3>;
+            key-positions = <37 41>;
+        };
     };
 
     keymap {
